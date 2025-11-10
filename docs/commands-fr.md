@@ -2,6 +2,10 @@
 
 Dernière mise à jour : **10/11/2025**
 
+> [!NOTE]  
+> Le bot **Elaxer** est actuellement disponible **uniquement en français**.  
+> Une **mise à jour future (non confirmée)** pourrait ajouter la prise en charge de l’anglais.
+
 ## Introduction
 
 Ce document liste et décrit les commandes disponibles pour le bot Discord **Elaxer**.  
