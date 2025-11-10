@@ -2,6 +2,10 @@
 
 Last updated: **10/11/2025**
 
+> [!NOTE]  
+> The **Elaxer** bot is currently available **in French only**.  
+> A **possible future update** may include English language support.
+
 ## Introduction
 
 This document lists and describes the commands available for the **Elaxer** Discord bot.  
