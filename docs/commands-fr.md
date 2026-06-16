@@ -1,6 +1,6 @@
 # Documentation des Commandes prises en charge par le Bot Elaxer
 
-Dernière mise à jour : **10/11/2025**
+Dernière mise à jour : **16/06/2026**
 
 > [!NOTE]  
 > Le bot **Elaxer** est actuellement disponible **uniquement en français**.  
@@ -95,6 +95,12 @@ Les permissions requises pour certaines commandes peuvent également être ajust
 > La commande **/ticket** est actuellement en **développement**. Elle peut ne pas être fonctionnelle ou ne pas être disponible pour le moment.  
 > Veuillez vérifier les mises à jour futures pour son lancement.
 
+### **Créer un serveur entier**
+- **Permission requise** : `Propriétaire du serveur`
+- **Commande** : `/create_server`
+> [!CAUTION]
+> Utiliser la commande `/create_server` peut entièrement supprimer le serveur. Soyez prudent avant de l'exécuter.
+
 ---
 
 ## Commandes d'Information
@@ -122,7 +128,7 @@ Les permissions requises pour certaines commandes peuvent également être ajust
 - **Commande** : `/altletters {text}`
   - `{text}` (str) : Texte à transformer en caractères similaires
 
-### ** Remplacer des caractères par le SGA**
+### **Remplacer des caractères par le SGA**
 - **Commande** : `/sga {text}`
   - `{text}` (str) : Texte à transformer en SGA
 
@@ -153,12 +159,6 @@ Les permissions requises pour certaines commandes peuvent également être ajust
 ### **Jouer au blackjack**
 - **Commande** : `/blackjack`
 
-### **Créer un serveur entier**
-- **Permission requise** : `Propriétaire du serveur`
-- **Commande** : `/create_server`
-> [!CAUTION]
-> Utiliser la commande `/create_server` peut entièrement supprimer le serveur. Soyez prudent avant de l'exécuter.
-
 ### **Joue au Pierre-Papier-Ciseau**
 - **Commande** : `/rps`
 
@@ -172,7 +172,6 @@ Les permissions requises pour certaines commandes peuvent également être ajust
 > [!TIP]  
 > Pour obtenir de l’aide, poser des questions, ou discuter avec la communauté, rejoignez notre serveur Discord !
 > Pour rejoindre le serveur [Discord](https://discord.gg/tz9pkUJntZ)
-
 
 ---
 
